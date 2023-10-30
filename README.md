@@ -12,8 +12,8 @@ A) PREPROCESS AND ALIGN READS
 B) Differential Expression Analysis and related
 1) Create count matrix from individual STAR count files: `prepareCountMatrix.R`
 2) DEA: `DEA.R`
-3) 
+3) Correlated/anticorrelated genes: 
+4) Comparison analysis: 
 
-C) VISUALIZATION
-- Fig1.R
-- 
+C) VISUALIZATION: code to create the plots
+- Main figures: `fig1.R`, `fig2.R`, `fig3.R`, `fig4.R`, `fig5.R` and `fig6.R`
