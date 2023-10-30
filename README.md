@@ -1,6 +1,6 @@
 # OrV progression
 
-Code generated for analyze the Dynamics of Orsay virus accumulation and the _C. elegans_ responses within the course of an infection
+Code generated to analyze the dynamics of Orsay virus accumulation and the _C. elegans_ responses within the course of an infection
 
 SCRIPTS:
 ---
