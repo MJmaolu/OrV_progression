@@ -5,7 +5,7 @@ Code generated for analyze the Dynamics of Orsay virus accumulation and the __C.
 SCRIPTS:
 ---
 
-A) PREPROCESS AND ALIGN READS
+A) PREPROCESS AND ALIGN READS (preDEA)
 
 1) Preprocess fastq files with `bbduk.sh`: `preprocessOrV.sh`
 2) Align and quantify gene expression with `STAR`: `alignN2.sh`
